@@ -1,1 +1,2 @@
-Proyecto para aprender a utilizar git.
+Proyecto para estudiar a utilizar git.
+Modificado en desarrollo
